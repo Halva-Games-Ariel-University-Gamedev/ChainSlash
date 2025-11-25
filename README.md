@@ -4,6 +4,8 @@
 
 תחוך שדים ותשרוד
 
+Itch.io : https://daniel-work-gh.itch.io/chainslash-v0
+
 ## מהות המשחק
 
 משחק Hack & Slash מהיר נגד גלי שדים.  
